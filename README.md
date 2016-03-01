@@ -2,7 +2,7 @@
 
 This GitHub organisation collects the technical outcomes of the [Big Data
 Europe project](http://www.big-data-europe.eu).  This specific repository
-contains general information on the repositories of this organisation.
+contains general information on the repositories of this organisation. See [the Wiki pages](https://github.com/big-data-europe/README/wiki) for more information.
 
 ## Naming conventions
 
@@ -32,3 +32,6 @@ MIT license, as supplied as the LICENSE file in this repository.
 This project has received funding from the European Union’s Horizon 2020
 research Europe flag and innovation programme under grant agreement
 n°644564 - BigDataEurope.
+
+
+_Verified at 2016-03-01_
