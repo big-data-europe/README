@@ -22,3 +22,52 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+=======================================================================
+BDE subcomponents:
+=======================================================================
+The project contains subcomponents which are subject to separate copyright notices and license terms.
+Your use of the source code for the these subcomponents is subject to the terms and conditions of their respective licenses, which include the following:
+
+-----------------------------------------------------------------------
+ The MIT License
+-----------------------------------------------------------------------
+The BDE project bundles the following components under the MIT License:
+	MongoDB
+	Sextant
+ 
+-----------------------------------------------------------------------
+ The Apache License
+-----------------------------------------------------------------------
+The BDE project uses the following components under the Apache License:
+	Apache Flink
+	Apache Spark
+	Docker
+	Hadoop
+	Hue
+	Cassandra
+	CouchDB
+	Hive
+	Flume
+	Kafka
+	Elastic search
+	Solr
+	Semagrow
+
+-----------------------------------------------------------------------
+ The BSD Style License
+-----------------------------------------------------------------------
+	Redis
+
+-----------------------------------------------------------------------
+MOZILLA PUBLIC LICENSE
+-----------------------------------------------------------------------
+	RabbitMQ
+	Strabon
+
+-----------------------------------------------------------------------
+GNU General Public License
+-----------------------------------------------------------------------
+	4store
+	Virtuoso
+	UnifiedViews
