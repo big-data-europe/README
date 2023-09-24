@@ -1,8 +1,10 @@
 # Big Data Europe project README
 
 This GitHub organisation collects the technical outcomes of the [Big Data
-Europe project](http://www.big-data-europe.eu).  This specific repository
+Europe project].  This specific repository
 contains general information on the repositories of this organisation. See [the Wiki pages](https://github.com/big-data-europe/README/wiki) for more information.
+
+[Big Data Europe project]: https://web.archive.org/web/20211021221357/https://www.big-data-europe.eu/
 
 ## Naming conventions
 
